@@ -18,7 +18,7 @@ pipeline {
 
          stage("Deploy application") { 
          steps { 
-           sh 'echo "deploying NodeJS application..."'
+           sh 'echo "deploying NodeJS application now..."'
          }
 
      }
